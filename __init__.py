@@ -1,1 +1,1 @@
-"""The mitemp_bt component."""
+"""The mieclock_bt component."""
