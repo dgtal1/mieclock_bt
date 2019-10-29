@@ -1,5 +1,5 @@
 """Support for Xiaomi Mi e-ink Clock, Temperature & Humidity BLE environmental sensor."""
-"""Based on great work of @h4 - https://github.com/h4/LYWSD02-home-assistant/issues"""
+"""Based on great work of @h4 - https://github.com/h4/LYWSD02-home-assistant"""
 import logging
 
 from datetime import timedelta
