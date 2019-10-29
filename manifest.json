@@ -1,0 +1,8 @@
+{
+  "domain": "mieclock_bt",
+  "name": "Mi e-ink clock+temp bt",
+  "documentation": "https://github.com/h4/LYWSD02-home-assistant",
+  "requirements": ["lywsd02>=0.0.3"],
+  "dependencies": [],
+  "codeowners": ["@h4", "@grzeg8102"]
+}
